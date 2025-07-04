@@ -8,5 +8,10 @@
     "title": "Maintenance test 2",
     "start": "2025-06-25T00:00:00Z",
     "end": "2025-06-25T23:59:59Z"
+  },
+  {
+    "title": "Maintenance test 3",
+    "start": "2025-07-04T00:00:00Z",
+    "end": "2025-07-04T23:59:59Z"
   }
 ]
