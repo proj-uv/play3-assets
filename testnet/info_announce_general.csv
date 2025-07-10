@@ -19,7 +19,7 @@ id,title,announcement,description,releaseDate
 
   <h1><strong> [ ✨ Beta Open Event Begin ]</strong></h1>
 
-  <p><strong><img src=""이미지 #1 경로"" alt=""general_banner_id1-1""style=""width: 100%; height: auto;"" /></strong></p>
+  <p><strong><img src=""""https://proj-uv.github.io/play3-assets/banner/banner_1.png"""" alt=""""banner_1"""" style=""""width: 100%; height: auto;"""" /></strong></p>
 
   <h2><strong>🪂 ⛏️🎟️ Start “Raffle Ticket” Mining at Open Beta</strong></h2>
   <ul>
@@ -30,7 +30,7 @@ id,title,announcement,description,releaseDate
 
   <hr>
 
-  <p><strong><img src=""이미지 #2 경로"" alt=""general_banner_id1-2"" style=""width: 100%; height: auto;"" /></strong></p>
+  <p><strong><img src=""""https://proj-uv.github.io/play3-assets/banner/banner_2.png"""" alt=""""banner_2"""" style=""""width: 100%; height: auto;"""" /></strong></p>
 
   <h1><strong> [ 🎮 Supervillain Wanted Onboarding Event ]</strong></h1>
   <ul>
@@ -95,7 +95,7 @@ id,title,announcement,description,releaseDate
   <p>Don’t miss our Beta Open Evens.</p>
   <p>Even more rewards are ready to grab!</p>
 
-<p><img src=""이미지 #1 경로.jpg"" alt=""general_banner_id1-1"" style=""width: 100%; height: auto;"" /></p>
+<p><strong><img src=""""https://proj-uv.github.io/play3-assets/banner/banner_1.png"""" alt=""""banner_1"""" style=""""width: 100%; height: auto;"""" /></strong></p>
 
   <p>👉 Check the <strong>[✨ Beta Open Event Begins]</strong> post for all the details!</p>
   <p>  * <i>Announcement &gt; Event &gt; [✨ Beta Open Event Begins]</i></p>
