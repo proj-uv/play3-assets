@@ -29,7 +29,13 @@ function loadAnns (network) {
       ...row,
       description: row.description.replace(/\n/g, '<br>'),
       releaseDate: row.releaseDate ? new Date(row.releaseDate) : null
-    }));
+    })).sort((a, b) => {
+      let d = sortByReleaseDate(a, b);
+      if (d == 0) {
+        d = Number(b.id) - Number(a.id);
+      }
+      return d;
+    });
 
     clearArticleMenu();
     addArticleMenu();
@@ -39,6 +45,17 @@ function loadAnns (network) {
   .catch(err => {
     console.error(err);
   });
+}
+
+/**
+ * @param { releaseDate: Date }} a
+ * @param { releaseDate: Date }} b
+ */
+function sortByReleaseDate (a, b) {
+  if (!a.releaseDate && !b.releaseDate) return 0;
+      if (!a.releaseDate) return 1;
+      if (!b.releaseDate) return -1;
+      return b.releaseDate - a.releaseDate;
 }
 
 function addArticleMenu () {
