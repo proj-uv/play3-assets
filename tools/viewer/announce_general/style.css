@@ -1,0 +1,123 @@
+* {
+  font-family: Fredoka, "Noto Color Emoji", sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+code {
+  font-family: Roboto, serif;
+}
+
+button {
+  background: none;
+  border: none;
+
+  &:enabled {
+    cursor: pointer;
+  }
+}
+
+h1 {
+  padding: 8px;
+}
+
+h2 {
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 600;
+}
+
+li {
+  list-style-type: none;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-col {
+  display: flex;
+  flex-direction: column;
+}
+
+#network-menu {
+  font-size: 22px;
+  line-height: 26px;
+  font-weight: 600;
+  margin: 10px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+#menu {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.menu-item {
+  display: flex;
+  flex-direction: column;
+
+  .menu-item-icon {
+    width: 22px;
+    height: 22px;
+    text-align: center;
+  }
+
+  > button {
+    width: 256px;
+
+    &:disabled {
+      background-color: #cdcdcd;
+      color: #000;
+    }
+  }
+}
+
+.border-box {
+  margin: 4px;
+  padding: 4px;
+  border: 2px solid #000;
+  border-radius: 10px;
+}
+
+#article {
+  width: 465px;
+
+  #article-header {
+    box-sizing: border-box;
+    width: 100%;
+  }
+  
+  #article-main {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 15px;
+    
+    font-size: 16px;
+    line-height: 19px;
+    font-weight: 500;
+    
+    #article-main-content {
+      width: 100%;
+      height: 330px;
+      overflow-y: auto;
+    }
+  }
+}
+
+.shadowlabel {
+  color: #fff;
+  font-weight: 600;
+  paint-order: stroke fill;
+  -webkit-text-stroke: 0.2em black;
+  text-shadow: 0.1em 0.1em 0px black;
+}
