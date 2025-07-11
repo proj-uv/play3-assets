@@ -20,7 +20,8 @@ let network = 'testnet';
 function loadAnns (network) {
   network = network;
 
-  fetch(`https://proj-uv.github.io/play3-assets/${network}/info_announce_general.csv`)
+  const now = Date.now();
+  fetch(`https://proj-uv.github.io/play3-assets/${network}/info_announce_general.csv?now=${now}`)
   .then(res => res.text())
   .then(data => {
     const rows = parseCSV(data);
