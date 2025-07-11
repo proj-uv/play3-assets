@@ -1,5 +1,64 @@
 id,title,announcement,description,releaseDate
-1,✨ Beta Open Event Begins,📢 PLAY3 Open Beta: Live!,"  <div>Hello, PLAYERS! 👋</br>
+1,🛠️ 0.0.1a Update Info,🛠️ PLAY3 Notice,"<div Hello, PLAYERS! 👋</br>
+<div>Welcome to PLAY3 — your friendly, mission-powered gateway to Web3.</br>
+
+<div><strong>PLAY3 is created to bridge the gap between Web2 and Web3</strong>, fostering a new kind of community and ushering in a user-driven era.</br>
+<div>Our mission is to introduce a wide range of Web3 experiences and outstanding DApps that were once difficult to access, <strong>empowering everyone to become a key player in the Web3 world.</strong></br>
+<div>With the launch of our Beta service, PLAY3 is taking its first step forward — and today, we’re happy to share our very first update.</p>
+<hr>
+<div><strong>[ Key Updates ]</strong></br>
+<div><strong>🔧 Bazaar Update</strong></br>
+<div>  ⦁ <strong>The Bazaar lifespan is now set to 12 hours</strong> to keep trades active and ensure equal opportunities for all users.</br>
+<div><strong>🎉 Lucky Fountain Update</strong></br>
+<div>  ⦁ The Lucky Fountain is a fun way to toss in Copper and see who gets to take it all in the end.</br>
+<div>  ⦁ <strong>Now that it’s more accessible, everyone can join in and enjoy the thrill.</strong></br>
+<hr>
+<div><strong>🔧 We’ve also resolved several known issues.</strong></br>
+<div>For full details, please refer to the release notes below:</br>
+
+<div><strong>📄 Release Notes</strong></br>
+<div><strong>PLAY3 will continue to grow with your support.</strong> We welcome your ideas, feedback, and suggestions at any time!</br>
+<div>We’re in this together.</br>
+<div>Thank you always. — From the PLAY3 Team</br>
+<hr>
+<div><strong>[ Release Notes ] v0.0.1a (2025.07.11)</strong></br>
+<div><strong>1. Feature Updates & Changes)</strong></br>
+<div>  ⦁ <strong>Chat</strong></br>
+<div>  ⦁ World Chat cooldown has been adjusted. (1 minute → 5 seconds)</br>
+
+<div>  ⦁ <strong>Bazaar</strong></br>
+<div>  ∘ Bazaar duration is now limited. (No limit → 12 hours)</br>
+<div>   ∘ Bazaars will automatically close when the time limit is reached. Any sales earnings will be sent to your Inbox.</br>
+<div>   ※ With the update, any previously opened Bazaars will be automatically closed.</br>
+
+<div>  ⦁<strong> Lucky Fountain</strong></br>
+<div>   ∘ The max for Lucky Fountain has been changed. (Now capped at 2,000 Copper)</br>
+<div>   ∘ Each click now contributes 1 Copper, with a 0.5-second interval between clicks.</br>
+<div>   ∘ The latest winner and the amount of Copper won are now displayed.</br>
+<hr>
+<div><strong>2. New & Updated Content</strong></br>
+<div>  ⦁ <strong>New NPCs Added</strong></br>
+<div>   ∘   <i>Event Fren</i>: Say hi in the Main Square, provides guides for events and notices.</br>
+<div>   ∘   <i>Bazaar King</i>: Say hi in the East Fleamarket, explains how to use the Bazaar.</br>
+
+<div>  ⦁ <strong>Welcome our new NPCs</strong></br>
+<div>   ∘  <i>Lumber's Daughter</i>: Now in place of ‘Forest Lin’ in the Main Square, she’ll happily show you how to collect Copper!</br>
+<div>   ∘  <i>Bazaar Queen</i>: Now in place of ‘‘Market Kris’ in the Main Square, she’ll provide Bazaar usage guidance.</br>
+<div>   ∘  <i>Lumber Jack</i>: Updated appearance and now gives tips on how to earn Copper.</br>
+
+<div>  ⦁ <strong>New Mission</strong></br>
+<div>   ∘  A new daily mission, <strong>‘Close your Bazaar’</strong>, has been added.</br>
+<hr>
+<div><strong>3. Bug Fixes</strong></br>
+<div>  ⦁ Fixed an issue where missions wouldn’t refresh if the date changed during an active session.</br>
+<hr>
+<div><strong>4. Known Issues</strong></br>
+<div>  ⦁ In some cases, a red dot may still appear on the mission icon even after all rewards have been collected.</br>
+<div>   ∘  We’re looking into the issue and aiming to resolve this promptly.</br>
+
+<div>🐛 Your feedback matters to us at PLAY3. If you spot any bugs, please let us know anytime through the link below!</br>
+<div><a href=""https://forms.gle/VeRzsRWJXbtx2keG7"" target=""_blank"">Report a Bug</a></br>",2025-07-11T09:30:00Z
+2,✨ Beta Open Event Begins,📢 PLAY3 Open Beta: Live!,"  <div>Hello, PLAYERS! 👋</br>
   <p>Welcome to PLAY3 — your friendly, mission-powered gateway to Web3.</p>
 
   <hr>
@@ -67,7 +126,7 @@ id,title,announcement,description,releaseDate
 
   <div>Let’s PLAY3! 👾</br>
   <div>See you in the square.</br>",2025-07-10T07:00:00Z
-2,📢 Pre-Registration Rewards,📢 Pre-Registration Rewards,"  <p>Hello, PLAYERS! 👋</p>
+3,📢 Pre-Registration Rewards,📢 Pre-Registration Rewards,"  <p>Hello, PLAYERS! 👋</p>
   <p>Welcome to PLAY3 — your friendly, mission-powered gateway to Web3.</p>
 
   <p>Thanks a ton to everyone who pre-registered and joined our Telegram quest.</p>
@@ -118,7 +177,7 @@ id,title,announcement,description,releaseDate
 
   <p>Let’s PLAY3! 👾</p>
   <p> See you in the square!</p>",2025-07-10T06:58:00Z
-3,🛠️ 0.0.1 Update Info,🛠️Getting ready for Open Beta!,"<p>Hello, PLAYERS! 👋<br>
+4,🛠️ 0.0.1 Update Info,🛠️Getting ready for Open Beta!,"<p>Hello, PLAYERS! 👋<br>
 Welcome to <strong>PLAY3</strong> — your friendly, mission-powered gateway to Web3.</p>
 
 <p>We are getting ready for our 𝓸𝓹𝓮𝓷 𝓫𝓮𝓽𝓪!</p>
