@@ -25,7 +25,7 @@ function loadAnns (network) {
   .then(data => {
     const rows = parseCSV(data);
     // console.log(rows);
-    annList = rows.map(row => ({
+    annList = rows.filter(row => !!row.id).map(row => ({
       ...row,
       description: row.description.replace(/\n/g, '<br>'),
       releaseDate: row.releaseDate ? new Date(row.releaseDate) : null
