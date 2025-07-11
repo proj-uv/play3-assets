@@ -37,7 +37,27 @@ id,title,announcement,description,releaseDate
 <div>   ∘ The latest winner and the amount of Copper won are now displayed.</br>
 <hr>
 <div><strong>2. New & Updated Content</strong></br>
-<div>  ⦁ <strong>New NPCs Added</strong></br>",2025-07-11T08:30:00Z
+<div>  ⦁ <strong>New NPCs Added</strong></br>
+<div>   ∘   <i>Event Fren</i>: Say hi in the Main Square, provides guides for events and notices.</br>
+<div>   ∘   <i>Bazaar King</i>: Say hi in the East Fleamarket, explains how to use the Bazaar.</br>
+
+<div>  ⦁ <strong>Welcome our new NPCs</strong></br>
+<div>   ∘  <i>Lumber's Daughter</i>: Now in place of ‘Forest Lin’ in the Main Square, she’ll happily show you how to collect Copper!</br>
+<div>   ∘  <i>Bazaar Queen</i>: Now in place of ‘‘Market Kris’ in the Main Square, she’ll provide Bazaar usage guidance.</br>
+<div>   ∘  <i>Lumber Jack</i>: Updated appearance and now gives tips on how to earn Copper.</br>
+
+<div>  ⦁ <strong>New Mission</strong></br>
+<div>   ∘  A new daily mission, <strong>‘Close your Bazaar’</strong>, has been added.</br>
+<hr>
+<div><strong>3. Bug Fixes</strong></br>
+<div>  ⦁ Fixed an issue where missions wouldn’t refresh if the date changed during an active session.</br>
+<hr>
+<div><strong>4. Known Issues</strong></br>
+<div>  ⦁ In some cases, a red dot may still appear on the mission icon even after all rewards have been collected.</br>
+<div>   ∘  We’re looking into the issue and aiming to resolve this promptly.</br>
+
+<div>🐛 Your feedback matters to us at PLAY3. If you spot any bugs, please let us know anytime through the link below!</br>
+<div><a href=""https://forms.gle/VeRzsRWJXbtx2keG7"" target=""_blank"">Report a Bug</a></br>",2025-07-11T08:30:00Z
 2,✨ Beta Open Event Begins,📢 PLAY3 Open Beta: Live!,"  <div>Hello, PLAYERS! 👋</br>
   <p>Welcome to PLAY3 — your friendly, mission-powered gateway to Web3.</p>
 
