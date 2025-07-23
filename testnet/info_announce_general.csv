@@ -1,5 +1,66 @@
 id,title,announcement,description,releaseDate
-1,🛠️ 0.0.1a Update Info,🛠️ PLAY3 Notice,"<div Hello, PLAYERS! 👋</br>
+1,🛠️ 0.0.1c Update Info,🛠️ PLAY3 Notice,"Hello, PLAYERS! 👋</br>
+Welcome to PLAY3 — your friendly, mission-powered gateway to Web3.</br>
+
+<hr>
+
+<strong>Maintenance Notice</strong><br><br>
+We will be conducting scheduled maintenance for server stabilization.<br>  
+Please check the details below and plan your activities accordingly.<br><br>
+
+<strong>🛠️ Maintenance Schedule</strong><br>  
+  ⦁ ⏰ <strong>July 24, 7:00 AM UTC</strong><br><br>
+
+During this time, some services may be temporarily unavailable.<br> 
+We appreciate your understanding as we work to enhance your experience with PLAY3.<br><br>
+
+<hr>
+
+ <strong>🐛 Found an issue?</strong><br>  
+Your feedback is invaluable to us.<br>  
+Please report any bugs or issues through the following link:<br>  
+👉 <a href=""https://forms.gle/VeRzsRWJXbtx2keG7"" target=""_blank"">Submit a Bug Report</a><br><br>
+
+<hr>
+
+Thank you for your continued support.<br>  
+We look forward to bringing you an even better PLAY3 experience. <br>
+
+<div>Let’s PLAY3! 👾</br>
+<div>See you in the square.</br>",2025-07-24T06:00:00Z
+2,🛠️ 0.0.1b Update Info,🛠️ PLAY3 Notice,"<div Hello, PLAYERS! 👋</br>
+<div>Welcome to PLAY3 — your friendly, mission-powered gateway to Web3.</br>
+
+<hr>
+
+<div><strong>[ Release Notes ] v0.0.1b (2025.07.17)</strong></br>
+<div><strong>1. Feature Updates & Changes</strong></br>
+
+<div>  ⦁ <strong>Chat</strong></br>
+<div>   ∘  ""World"" chat has been renamed to ""ALL"" and is now set as the default chat channel.</br>
+<div>   ∘  The color of World chat has changed from orange to white.</br>
+<div>   ∘  World Chat cooldown has been adjusted. (5 seconds → 1 seconds).</br>
+<div>   ∘  The color of Field chat has changed from white to gray.</br>
+
+<div>  ⦁ <strong>Bazaar</strong></br>
+<div>   ∘  The installation range required for setting up a Bazaar has been reduced, allowing more shops to be placed.</br>
+<div>   ※ With the update, any previously opened Bazaars will be automatically closed.</br>
+
+<div>  ⦁ <strong>Wallet</strong></br>
+<div>   ∘  A feature to view the private key has been added.</br>
+<div>   ∘  It is now possible to view the full wallet address.</br>
+
+<hr>
+
+<div><strong>2.  Bug Fixes</strong></br>
+<div>  ⦁ Fixed an issue where the Bazaar remained on the map even when the Remaining Time reached 0 seconds.</br>
+<div>  ⦁ Fixed an issue where mission progress was not increasing.</br>
+<div>  ⦁ Fixed an issue where throwing just one copper would incorrectly complete the objective.</br>
+
+<div>🐛 Your feedback matters to us at PLAY3. If you spot any bugs, please let us know anytime through the link below!</br>
+<div><a href=""https://forms.gle/VeRzsRWJXbtx2keG7"" target=""_blank"">Report a Bug</a></br>
+",2025-07-17T02:00:00Z
+3,🛠️ 0.0.1a Update Info,🛠️ PLAY3 Notice,"<div Hello, PLAYERS! 👋</br>
 <div>Welcome to PLAY3 — your friendly, mission-powered gateway to Web3.</br>
 
 <div><strong>PLAY3 is created to bridge the gap between Web2 and Web3</strong>, fostering a new kind of community and ushering in a user-driven era.</br>
@@ -57,8 +118,8 @@ id,title,announcement,description,releaseDate
 <div>   ∘  We’re looking into the issue and aiming to resolve this promptly.</br>
 
 <div>🐛 Your feedback matters to us at PLAY3. If you spot any bugs, please let us know anytime through the link below!</br>
-<div><a href=""https://forms.gle/VeRzsRWJXbtx2keG7"" target=""_blank"">Report a Bug</a></br>",2025-07-11T08:30:00Z
-2,✨ Beta Open Event Begins,📢 PLAY3 Open Beta: Live!,"  <div>Hello, PLAYERS! 👋</br>
+<div><a href=""https://forms.gle/VeRzsRWJXbtx2keG7"" target=""_blank"">Report a Bug</a></br>",2025-07-11T09:30:00Z
+4,✨ Beta Open Event Begins,📢 PLAY3 Open Beta: Live!,"  <div>Hello, PLAYERS! 👋</br>
   <p>Welcome to PLAY3 — your friendly, mission-powered gateway to Web3.</p>
 
   <hr>
@@ -82,7 +143,7 @@ id,title,announcement,description,releaseDate
     <div> ⦁ Clear missions</p>
 
   <p>📅 <strong>EVENT Period:</strong></br>
-    <div>  ⦁ Two months <i>(details : TBA)</p>  
+    <div>  ⦁ Two months <i>(details : TBA)</i></p>  
 
   <hr>
 
@@ -126,7 +187,7 @@ id,title,announcement,description,releaseDate
 
   <div>Let’s PLAY3! 👾</br>
   <div>See you in the square.</br>",2025-07-10T07:00:00Z
-3,📢 Pre-Registration Rewards,📢 Pre-Registration Rewards,"  <p>Hello, PLAYERS! 👋</p>
+5,📢 Pre-Registration Rewards,📢 Pre-Registration Rewards,"  <p>Hello, PLAYERS! 👋</p>
   <p>Welcome to PLAY3 — your friendly, mission-powered gateway to Web3.</p>
 
   <p>Thanks a ton to everyone who pre-registered and joined our Telegram quest.</p>
@@ -177,7 +238,7 @@ id,title,announcement,description,releaseDate
 
   <p>Let’s PLAY3! 👾</p>
   <p> See you in the square!</p>",2025-07-10T06:58:00Z
-4,🛠️ 0.0.1 Update Info,🛠️Getting ready for Open Beta!,"<p>Hello, PLAYERS! 👋<br>
+6,🛠️ 0.0.1 Update Info,🛠️Getting ready for Open Beta!,"<p>Hello, PLAYERS! 👋<br>
 Welcome to <strong>PLAY3</strong> — your friendly, mission-powered gateway to Web3.</p>
 
 <p>We are getting ready for our 𝓸𝓹𝓮𝓷 𝓫𝓮𝓽𝓪!</p>
@@ -192,37 +253,3 @@ Get ready right away with us for the opening!</p>
 
 <p>Let’s PLAY3! 👾<br>
 See you in the square!</p>",2025-07-09T07:00:00Z
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
