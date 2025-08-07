@@ -1,5 +1,73 @@
 id,title,announcement,description,releaseDate
-1,🛠️ 0.0.1c Update Info,🛠️ PLAY3 Notice,"Hello, PLAYERS! 👋</br>
+1,🛠️ 0.0.2 Update Info,🛠️ PLAY3 Notice,"Hello, PLAYERS! 👋<br/>
+Welcome to PLAY3 — your friendly, mission-powered gateway to Web3.<br/>
+
+<hr>
+
+<strong>[ Release Notes ] v0.0.2 (2025.08.07)</strong></br>
+<strong>1. Feature Updates & Changes</strong></br>
+
+<img src=""https://proj-uv.github.io/play3-assets/banner/20250807_notice_1.png"" alt=""banner_3""style=""width: 100%; height: auto;"" /><br/>
+
+  ⦁ <strong>Fishing</strong><br/>
+    ∘ 🎣 A peaceful new activity has arrived. <strong>You can now enjoy fishing in PLAY3!</strong><br/>
+    ∘ Head over to the pond, river, or seaside and try casting a line.<br/>
+    ∘ You might reel in something fun!<p/>
+
+  ⦁ <strong>Map Construction</strong><br/>
+    ∘ 🗺️ Some gentle remodeling was done across the map.<br/>
+    ∘ New fishing spots like rivers and coastlines have been prepared.<br/>
+    ∘ We hope you enjoy the refreshed scenery as much as the new activity it brings!<p/>
+
+  ⦁ <strong>Meet New NPC, Pawnbroker Lick!</strong><br/>
+<img src=""https://proj-uv.github.io/play3-assets/banner/20250807_notice_2.png"" alt=""banner_4""style=""width: 100%; height: auto;"" /><br/>
+    ∘ 💼 The owner of the mysterious Item Garage Box has finally arrived in the world of PLAY3!<br/>
+    ∘ Lick is here to buy certain items from you, but only the ones he likes.<br/>
+    ∘ Bring your extras and see what kind of deal you can strike.<br/>
+    ∘ He might not pay top coin… but he does know his business. 😉<p/>
+
+  ⦁ <strong>Lick's Pawn Shop</strong><br/>
+    ∘ You can now sell multiple items to Lick at once.<br/>
+    ∘ Selling items grants you points, and accumulating points lets you open Pawn Shop Mystery Boxes (Pawn Boxes).<br/>
+    ∘ Only 3 Pawn Boxes can be opened each day, but Lick will continue buying your items even after the limit.<br/>
+    ∘ Special items exclusive to Pawn Boxes have been added.<p/>
+
+  ⦁ <strong>Missions</strong><br/>
+    ∘ New fishing-related missions have been added to both Event and Daily Missions.<br/>
+    ∘ ‘Close your Bazaar’ mission has been removed from Daily Missions.<br/>
+    ∘ Mission UI has been improved for better clarity and usability.<br/>
+    ※ 'NEW' tag will appear when new missions are added.<p/>
+
+  ⦁ <strong>Inventory</strong><br/>
+    ∘  An auto-sort feature has been added, along with an expanded visible area.<p/>
+
+  ⦁ <strong>Tree Reset Time</strong><br/>
+    ∘ Tree cooldowns now reset together at 00:00 UTC every day.<p/>
+
+
+<hr>
+
+<div><strong>2.  Bug Fixes</strong><br/>
+
+<div>  ⦁ <strong>Improved platform performance</strong><br/>
+<div>    ∘  Improved platform performance to reduce slowdowns during long sessions.<p/>
+
+
+<hr>
+
+<strong>🐛 Found an issue?</strong><br/>
+Your feedback is invaluable to us.<br/>
+Please report any bugs or issues through the following link:<br/>
+👉 <a href=""https://forms.gle/VeRzsRWJXbtx2keG7"" target=""_blank"">Submit a Bug Report</a><br/>
+
+<hr>
+
+Thank you for your continued support.<br/>
+We look forward to bringing you an even better PLAY3 experience. <br/>
+
+Let’s PLAY3! 👾<br/>
+See you in the square.<br/>",2025-08-07T02:00:00Z
+2,🛠️ 0.0.1c Update Info,🛠️ PLAY3 Notice,"Hello, PLAYERS! 👋</br>
 Welcome to PLAY3 — your friendly, mission-powered gateway to Web3.</br>
 
 <hr>
@@ -36,7 +104,7 @@ We look forward to bringing you an even better PLAY3 experience. <br>
 
 <div>Let’s PLAY3! 👾</br>
 <div>See you in the square.</br>",2025-07-24T07:00:00Z
-2,🛠️ 0.0.1b Update Info,🛠️ PLAY3 Notice,"<div Hello, PLAYERS! 👋</br>
+3,🛠️ 0.0.1b Update Info,🛠️ PLAY3 Notice,"<div Hello, PLAYERS! 👋</br>
 <div>Welcome to PLAY3 — your friendly, mission-powered gateway to Web3.</br>
 
 <hr>
@@ -68,7 +136,7 @@ We look forward to bringing you an even better PLAY3 experience. <br>
 <div>🐛 Your feedback matters to us at PLAY3. If you spot any bugs, please let us know anytime through the link below!</br>
 <div><a href=""https://forms.gle/VeRzsRWJXbtx2keG7"" target=""_blank"">Report a Bug</a></br>
 ",2025-07-17T02:00:00Z
-3,🛠️ 0.0.1a Update Info,🛠️ PLAY3 Notice,"<div Hello, PLAYERS! 👋</br>
+4,🛠️ 0.0.1a Update Info,🛠️ PLAY3 Notice,"<div Hello, PLAYERS! 👋</br>
 <div>Welcome to PLAY3 — your friendly, mission-powered gateway to Web3.</br>
 
 <div><strong>PLAY3 is created to bridge the gap between Web2 and Web3</strong>, fostering a new kind of community and ushering in a user-driven era.</br>
@@ -127,7 +195,7 @@ We look forward to bringing you an even better PLAY3 experience. <br>
 
 <div>🐛 Your feedback matters to us at PLAY3. If you spot any bugs, please let us know anytime through the link below!</br>
 <div><a href=""https://forms.gle/VeRzsRWJXbtx2keG7"" target=""_blank"">Report a Bug</a></br>",2025-07-11T09:30:00Z
-4,✨ Beta Open Event Begins,📢 PLAY3 Open Beta: Live!,"  <div>Hello, PLAYERS! 👋</br>
+5,✨ Beta Open Event Begins,📢 PLAY3 Open Beta: Live!,"  <div>Hello, PLAYERS! 👋</br>
   <p>Welcome to PLAY3 — your friendly, mission-powered gateway to Web3.</p>
 
   <hr>
@@ -195,7 +263,7 @@ We look forward to bringing you an even better PLAY3 experience. <br>
 
   <div>Let’s PLAY3! 👾</br>
   <div>See you in the square.</br>",2025-07-10T07:00:00Z
-5,📢 Pre-Registration Rewards,📢 Pre-Registration Rewards,"  <p>Hello, PLAYERS! 👋</p>
+6,📢 Pre-Registration Rewards,📢 Pre-Registration Rewards,"  <p>Hello, PLAYERS! 👋</p>
   <p>Welcome to PLAY3 — your friendly, mission-powered gateway to Web3.</p>
 
   <p>Thanks a ton to everyone who pre-registered and joined our Telegram quest.</p>
@@ -246,7 +314,7 @@ We look forward to bringing you an even better PLAY3 experience. <br>
 
   <p>Let’s PLAY3! 👾</p>
   <p> See you in the square!</p>",2025-07-10T06:58:00Z
-6,🛠️ 0.0.1 Update Info,🛠️Getting ready for Open Beta!,"<p>Hello, PLAYERS! 👋<br>
+7,🛠️ 0.0.1 Update Info,🛠️Getting ready for Open Beta!,"<p>Hello, PLAYERS! 👋<br>
 Welcome to <strong>PLAY3</strong> — your friendly, mission-powered gateway to Web3.</p>
 
 <p>We are getting ready for our 𝓸𝓹𝓮𝓷 𝓫𝓮𝓽𝓪!</p>
