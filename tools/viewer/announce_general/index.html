@@ -1,9 +1,12 @@
-<html>
+<html lang="en">
   <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Announcement - General</title>
-    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link rel="stylesheet" type="text/css" href="style.css">
     <script src="../../csv.js"></script>
-    <script>
+
+<script>
 // console.log('Hello, World!');
 
 const menu = document.querySelector('#menu');
@@ -68,7 +71,15 @@ function addArticleMenu () {
     item.querySelector('.menu-item > button').setAttribute('data-id', row.id);
     item.querySelector('.menu-item-title').textContent = row.title;
     item.querySelector('.menu-item-title').title = row.title;
-    item.querySelector('.menu-item-time').textContent = (!row.releaseDate || row.releaseDate < now ? '⏰' : '⏳') + (row.releaseDate?.toISOString() ?? 'Always show');
+
+    const isReleased = !row.releaseDate || row.releaseDate < now;
+    item.querySelector('.menu-item-time .menu-item-time-utc .menu-item-time-icon').textContent = isReleased ? '⏰' : '⏳';
+    item.querySelector('.menu-item-time .menu-item-time-utc .menu-item-time-content').textContent = row.releaseDate?.toISOString() ?? 'Always show';
+    if (row.releaseDate) {
+      item.querySelector('.menu-item-time .menu-item-time-utc .menu-item-time-content').setAttribute('datetime', row.releaseDate.toISOString());
+      item.querySelector('.menu-item-time .menu-item-time-local .menu-item-time-content').textContent = `(${row.releaseDate.toLocaleString()})`;
+      item.querySelector('.menu-item-time .menu-item-time-local .menu-item-time-content').setAttribute('datetime', row.releaseDate.toLocaleString());
+    }
     menu.appendChild(item);
   });
 }
@@ -98,13 +109,13 @@ function selectMenu (id) {
   });
 }
 
+</script>
 
-    </script>
   </head>
   <body onload="loadAnns('testnet')">
     <h1>Announcement - General</h1>
 
-    <memu id="network-menu">
+    <menu id="network-menu">
       <li>
         <input type="radio" name="network" id="network-testnet" checked onclick="loadAnns('testnet')" />
         <label for="network-testnet">testnet</label>
@@ -113,18 +124,25 @@ function selectMenu (id) {
         <input type="radio" name="network" id="network-mainnet" onclick="loadAnns('mainnet')" />
         <label for="network-mainnet">mainnet</label>
       </li>
-    </memu>
+    </menu>
 
     <div class="flex">
 
       <menu id="menu" class="flex-col">
         <template id="template-menu-item">
           <li class="menu-item">
-            <!-- <div class="menu-item-icon"></div> -->
             <button class="border-box " onclick="loadArticle(this.getAttribute('data-id'))" >
               <h2 class="menu-item-title shadowlabel "></h2>
             </button>
-            <div class="menu-item-time"></div>
+            <div class="menu-item-time">
+              <p class="menu-item-time-utc">
+                <span class="menu-item-time-icon"></span>
+                <time class="menu-item-time-content"></time>
+              </p>
+              <p class="menu-item-time-local">
+                <time class="menu-item-time-content"></time>
+              </p>
+            </div>
           </li>
         </template>
       </menu>
