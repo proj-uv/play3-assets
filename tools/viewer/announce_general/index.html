@@ -97,7 +97,7 @@ function loadArticle (id) {
   const article = document.querySelector('#article');
   article.querySelector('#article-header-title').textContent = ann.announcement;
   article.querySelector('#article-header-title').title = ann.announcement;
-  article.querySelector('#article-main-content').innerHTML = ann.description;
+  article.querySelector('#article-main-content').innerHTML = ann.description.replaceAll('{accountId}', 'TEST-ACCOUNT-ID');
 }
 
 /**
