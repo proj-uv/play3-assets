@@ -1,5 +1,49 @@
 id,title,announcement,description,releaseDate
-1,✨ Meta Match Pre-Event!,📢 Meta Match Onboarding Soon,"Hello, PLAYERS! 👋<br/>
+1,🛠️ 0.0.2b Update Info,🛠️ PLAY3 Notice,"Hello, PLAYERS! 👋<br/>
+Welcome to PLAY3 — your friendly, mission-powered gateway to Web3.<br/>
+
+<hr>
+
+<strong>[ Release Notes ] v0.0.2b (2025.08.28)</strong><br/>
+<strong>1. Feature Updates & Changes</strong><br/>
+
+<strong>  ⦁ Mission UI Improvements</strong><br/>
+    ∘ 🎯 You can now click on mission reward icons to view detailed descriptions.<br/>
+    ∘ 🚀 A new [ GO ] button has been added to take you directly to the location needed for mission completion.<br/>
+
+<hr>
+
+<strong>2.  Bug Fixes</strong><br/>
+
+<strong> ⦁ Fishing UI</strong><br/>
+   ∘ Improved the time bar display shown while waiting to restart fishing.<br/>
+
+<strong> ⦁ Inventory & NFT Costumes</strong><br/>
+   ∘ Improved how NFT costumes are equipped and displayed.<br/>
+   ∘ Improved inventory loading for a better experience.<br/>
+
+<strong>⦁ Login Logic</strong><br/>
+   ∘ Improved login logic to prevent the login screen from appearing during map transitions.<br/>
+
+<hr>
+
+<strong>3.  Events</strong><br/>
+
+<strong> ⦁ Fishing Event Reward Distribution</strong><br/>
+   ∘ 🎣 Rewards from the Fishing Tourney Event will be gradually distributed.<br/>
+
+<strong> ⦁ Meta Match Pre-Registration Event</strong><br/>
+   ∘ 📢 Please refer to the event banner and previous notice for details on the Meta Match Pre-Registration Event!<br/>
+
+<hr>
+
+<strong>🐛 Found an issue?</strong><br/>
+Your feedback is invaluable to us.<br/>
+Please report any bugs or issues through the following link:<br/>
+👉 <a href=""https://forms.gle/VeRzsRWJXbtx2keG7"" target=""_blank"">Submit a Bug Report</a><br/>
+
+<hr>",2025-08-27T02:00:00Z
+2,✨ Meta Match Pre-Event!,📢 Meta Match Onboarding Soon,"Hello, PLAYERS! 👋<br/>
 Welcome to PLAY3 — your friendly, mission-powered gateway to Web3.<br/>
 
 <strong>📢 Exciting news! Meta Match, the Web3 Trading Card Game by Team Batching, is onboarding soon on PLAY3.</strong><br/>
@@ -82,7 +126,7 @@ We look forward to bringing you an even better PLAY3 experience. <br/>
 
 Let’s PLAY3! 👾<br/>
 See you in the square.<br/>",2025-08-25T10:00:00Z
-2,🛠️ 0.0.2a Update Info,🛠️ PLAY3 Notice,"Hello, PLAYERS! 👋<br/>
+3,🛠️ 0.0.2a Update Info,🛠️ PLAY3 Notice,"Hello, PLAYERS! 👋<br/>
 Welcome to PLAY3 — your friendly, mission-powered gateway to Web3.<br/>
 
 <hr>
@@ -130,7 +174,7 @@ Thank you for your continued support.<br>
 We look forward to bringing you an even better PLAY3 experience. <br>
 
 Let’s PLAY3! 👾<br/>",2025-08-21T02:00:00Z
-3,✨ Ongoing Events on PLAY3,📢 PLAY3 Event Details,"Hello, PLAYERS! 👋<br/>
+4,✨ Ongoing Events on PLAY3,📢 PLAY3 Event Details,"Hello, PLAYERS! 👋<br/>
 Welcome to PLAY3 — your friendly, mission-powered gateway to Web3.<br/>
 
 <strong>✨ Here’s your guide to all the events currently live in PLAY3.  </strong><br/>
@@ -267,7 +311,7 @@ Let’s PLAY3! 👾<br/>
 See you in the square.<br/>
 
 ",2025-08-14T00:00:00Z
-4,🐛Tree Listing Issue,📢 Fix in Progress,"Hello, PLAYERS! 👋<br/>
+5,🐛Tree Listing Issue,📢 Fix in Progress,"Hello, PLAYERS! 👋<br/>
 We have identified an issue occurring when listing trees on the Bazaar, and we are sharing this as a known issue.<br/>
 
 <hr>
@@ -298,7 +342,7 @@ We look forward to bringing you an even better PLAY3 experience. <br>
 
 Let’s PLAY3! 👾<br/>
 See you in the square.<br/>",2025-08-13T07:40:00Z
-5,✨ XPLA x PLAY3 Airdrop,📢 $XPLA Events & Rewards,"Hello, PLAYERS! 👋<br/>
+6,✨ XPLA x PLAY3 Airdrop,📢 $XPLA Events & Rewards,"Hello, PLAYERS! 👋<br/>
 Welcome to PLAY3 — your friendly, mission-powered gateway to Web3.<br/>
 
 Here’s a recap of the Airdrop Events hosted by XPLA in collaboration with PLAY3! 🎉<br/>
@@ -347,7 +391,7 @@ We look forward to bringing you an even better PLAY3 experience. <br>
 
 Let’s PLAY3! 👾<br/>
 See you in the square.<br/>",2025-08-12T06:01:00Z
-6,🐛 On-chain Access Issue,📢 Fix in Progress,"Hello, PLAYERS! 👋<br/>
+7,🐛 On-chain Access Issue,📢 Fix in Progress,"Hello, PLAYERS! 👋<br/>
 We’ve identified that some users are currently experiencing difficulties accessing certain on-chain features, and we are sharing this as a known issue.<br/>
 
 <hr>
@@ -382,7 +426,7 @@ We look forward to bringing you an even better PLAY3 experience. <br>
 
 Let’s PLAY3! 👾<br/>
 See you in the square.<br/>",2025-08-11T10:10:00Z
-7,🛠️ Pawn Shop Update,🛠️ PLAY3 Notice,"Hello, PLAYERS! 👋<br/>
+8,🛠️ Pawn Shop Update,🛠️ PLAY3 Notice,"Hello, PLAYERS! 👋<br/>
 We’ve identified an issue with Pawnbroker Lick’s Pawn Shop Mystery Boxes following today’s update. Due to a misconfiguration, some unintended items were mistakenly included in the drop list.<br/>
 We sincerely apologize for the inconvenience and will proceed with the following corrections:<br/>
 
@@ -424,7 +468,7 @@ We look forward to bringing you an even better PLAY3 experience. <br>
 Let’s PLAY3! 👾<br/>
 See you in the square.<br/>
 ",2025-08-07T10:10:00Z
-8,🛠️ 0.0.2 Update Info,🛠️ PLAY3 Notice,"Hello, PLAYERS! 👋<br/>
+9,🛠️ 0.0.2 Update Info,🛠️ PLAY3 Notice,"Hello, PLAYERS! 👋<br/>
 Welcome to PLAY3 — your friendly, mission-powered gateway to Web3.<br/>
 
 <hr>
@@ -492,7 +536,7 @@ We look forward to bringing you an even better PLAY3 experience. <br/>
 
 Let’s PLAY3! 👾<br/>
 See you in the square.<br/>",2025-08-07T02:00:00Z
-9,🛠️ 0.0.1c Update Info,🛠️ PLAY3 Notice,"Hello, PLAYERS! 👋</br>
+10,🛠️ 0.0.1c Update Info,🛠️ PLAY3 Notice,"Hello, PLAYERS! 👋</br>
 Welcome to PLAY3 — your friendly, mission-powered gateway to Web3.</br>
 
 <hr>
@@ -529,7 +573,7 @@ We look forward to bringing you an even better PLAY3 experience. <br>
 
 <div>Let’s PLAY3! 👾</br>
 <div>See you in the square.</br>",2025-07-24T07:00:00Z
-10,🛠️ 0.0.1b Update Info,🛠️ PLAY3 Notice,"<div Hello, PLAYERS! 👋</br>
+11,🛠️ 0.0.1b Update Info,🛠️ PLAY3 Notice,"<div Hello, PLAYERS! 👋</br>
 <div>Welcome to PLAY3 — your friendly, mission-powered gateway to Web3.</br>
 
 <hr>
@@ -561,7 +605,7 @@ We look forward to bringing you an even better PLAY3 experience. <br>
 <div>🐛 Your feedback matters to us at PLAY3. If you spot any bugs, please let us know anytime through the link below!</br>
 <div><a href=""https://forms.gle/VeRzsRWJXbtx2keG7"" target=""_blank"">Report a Bug</a></br>
 ",2025-07-17T02:00:00Z
-11,🛠️ 0.0.1a Update Info,🛠️ PLAY3 Notice,"<div Hello, PLAYERS! 👋</br>
+12,🛠️ 0.0.1a Update Info,🛠️ PLAY3 Notice,"<div Hello, PLAYERS! 👋</br>
 <div>Welcome to PLAY3 — your friendly, mission-powered gateway to Web3.</br>
 
 <div><strong>PLAY3 is created to bridge the gap between Web2 and Web3</strong>, fostering a new kind of community and ushering in a user-driven era.</br>
@@ -620,7 +664,7 @@ We look forward to bringing you an even better PLAY3 experience. <br>
 
 <div>🐛 Your feedback matters to us at PLAY3. If you spot any bugs, please let us know anytime through the link below!</br>
 <div><a href=""https://forms.gle/VeRzsRWJXbtx2keG7"" target=""_blank"">Report a Bug</a></br>",2025-07-11T09:30:00Z
-12,✨ Beta Open Event Begins,📢 PLAY3 Open Beta: Live!,"  <div>Hello, PLAYERS! 👋</br>
+13,✨ Beta Open Event Begins,📢 PLAY3 Open Beta: Live!,"  <div>Hello, PLAYERS! 👋</br>
   <p>Welcome to PLAY3 — your friendly, mission-powered gateway to Web3.</p>
 
   <hr>
@@ -688,7 +732,7 @@ We look forward to bringing you an even better PLAY3 experience. <br>
 
   <div>Let’s PLAY3! 👾</br>
   <div>See you in the square.</br>",2025-07-10T07:00:00Z
-13,📢 Pre-Registration Rewards,📢 Pre-Registration Rewards,"  <p>Hello, PLAYERS! 👋</p>
+14,📢 Pre-Registration Rewards,📢 Pre-Registration Rewards,"  <p>Hello, PLAYERS! 👋</p>
   <p>Welcome to PLAY3 — your friendly, mission-powered gateway to Web3.</p>
 
   <p>Thanks a ton to everyone who pre-registered and joined our Telegram quest.</p>
@@ -739,7 +783,7 @@ We look forward to bringing you an even better PLAY3 experience. <br>
 
   <p>Let’s PLAY3! 👾</p>
   <p> See you in the square!</p>",2025-07-10T06:58:00Z
-14,🛠️ 0.0.1 Update Info,🛠️Getting ready for Open Beta!,"<p>Hello, PLAYERS! 👋<br>
+15,🛠️ 0.0.1 Update Info,🛠️Getting ready for Open Beta!,"<p>Hello, PLAYERS! 👋<br>
 Welcome to <strong>PLAY3</strong> — your friendly, mission-powered gateway to Web3.</p>
 
 <p>We are getting ready for our 𝓸𝓹𝓮𝓷 𝓫𝓮𝓽𝓪!</p>
