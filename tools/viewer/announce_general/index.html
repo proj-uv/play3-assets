@@ -112,50 +112,56 @@ function selectMenu (id) {
 </script>
 
   </head>
-  <body onload="loadAnns('testnet')">
-    <h1>Announcement - General</h1>
 
-    <menu id="network-menu">
-      <li>
-        <input type="radio" name="network" id="network-testnet" checked onclick="loadAnns('testnet')" />
-        <label for="network-testnet">testnet</label>
-      </li>
-      <li>
-        <input type="radio" name="network" id="network-mainnet" onclick="loadAnns('mainnet')" />
-        <label for="network-mainnet">mainnet</label>
-      </li>
-    </menu>
+  <body class="h-screen" onload="loadAnns('testnet')">
+    <div class="h-screen flex-col ">
 
-    <div class="flex">
-
-      <menu id="menu" class="flex-col">
-        <template id="template-menu-item">
-          <li class="menu-item">
-            <button class="border-box " onclick="loadArticle(this.getAttribute('data-id'))" >
-              <h2 class="menu-item-title shadowlabel "></h2>
-            </button>
-            <div class="menu-item-time">
-              <p class="menu-item-time-utc">
-                <span class="menu-item-time-icon"></span>
-                <time class="menu-item-time-content"></time>
-              </p>
-              <p class="menu-item-time-local">
-                <time class="menu-item-time-content"></time>
-              </p>
-            </div>
-          </li>
-        </template>
+      <h1 class="shrink-0 ">
+        Announcement - General
+      </h1>
+  
+      <menu id="network-menu" class="shrink-0">
+        <li>
+          <input type="radio" name="network" id="network-testnet" checked onclick="loadAnns('testnet')" />
+          <label for="network-testnet">testnet</label>
+        </li>
+        <li>
+          <input type="radio" name="network" id="network-mainnet" onclick="loadAnns('mainnet')" />
+          <label for="network-mainnet">mainnet</label>
+        </li>
       </menu>
-
-      <article id="article" class="flex-col" >
-        <header id="article-header" class="border-box" >
-          <h2 id="article-header-title" class="shadowlabel "></h2>
-        </header>
-        <main id="article-main" class="border-box" >
-          <div id="article-main-content"></div>
-        </main>
-      </article>
-
+  
+      <div class="flex grow overflow-x-hidden overflow-y-auto">
+  
+        <menu id="menu">
+          <template id="template-menu-item">
+            <li class="menu-item">
+              <button class="border-box " onclick="loadArticle(this.getAttribute('data-id'))" >
+                <h2 class="menu-item-title shadowlabel "></h2>
+              </button>
+              <div class="menu-item-time">
+                <p class="menu-item-time-utc">
+                  <span class="menu-item-time-icon"></span>
+                  <time class="menu-item-time-content"></time>
+                </p>
+                <p class="menu-item-time-local">
+                  <time class="menu-item-time-content"></time>
+                </p>
+              </div>
+            </li>
+          </template>
+        </menu>
+  
+        <article id="article" class="flex-col" >
+          <header id="article-header" class="border-box" >
+            <h2 id="article-header-title" class="shadowlabel "></h2>
+          </header>
+          <main id="article-main" class="border-box" >
+            <div id="article-main-content"></div>
+          </main>
+        </article>
+  
+      </div>
     </div>
   </body>
 </html>

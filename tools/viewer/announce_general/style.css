@@ -31,6 +31,18 @@ li {
   list-style-type: none;
 }
 
+.sticky {
+  position: sticky;
+}
+
+.h-screen {
+  height: 100dvh;
+}
+
+.h-full {
+  height: 100%;
+}
+
 .flex {
   display: flex;
 }
@@ -45,18 +57,42 @@ li {
   flex-direction: column;
 }
 
+.grow {
+  flex-grow: 1;
+}
+
+.shrink {
+  flex-shrink: 1;
+}
+
+.shrink-0 {
+  flex-shrink: 0;
+}
+
+.overflow-x-hidden {
+  overflow-x: hidden;
+}
+
+.overflow-y-auto {
+  overflow-y: auto;
+}
+
 #network-menu {
   font-size: 22px;
   line-height: 26px;
   font-weight: 600;
   margin: 10px;
-
+  
   display: flex;
   flex-direction: column;
   gap: 10px;
 }
 
 #menu {
+  width: 280px;
+  overflow-y: hidden;
+  overflow-y: auto;
+
   display: flex;
   flex-direction: column;
   gap: 16px;
@@ -91,6 +127,7 @@ li {
 
 #article {
   width: 465px;
+  position: sticky;
 
   #article-header {
     box-sizing: border-box;
