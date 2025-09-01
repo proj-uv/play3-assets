@@ -103,11 +103,36 @@ function clearArticleMenu () {
 function loadArticle (id) {
   selectMenu(id);
 
-  const ann = annList.find(ann => ann.id == id);
+  const data = annList.find(ann => ann.id == id);
+
   const article = document.querySelector('#article');
-  article.querySelector('#article-header-title').textContent = ann.announcement;
-  article.querySelector('#article-header-title').title = ann.announcement;
-  article.querySelector('#article-main-content').innerHTML = ann.description.replaceAll('{accountId}', 'TEST-ACCOUNT-ID');
+  article.querySelector('#article-header-title').textContent = data.announcement;
+  article.querySelector('#article-header-title').title = data.announcement;
+
+  article.querySelector('#article-main-content').textContent = `loading... (${data.description})`;
+  loadDescription(data).then(description => {
+    article.querySelector('#article-main-content').innerHTML = description.replaceAll('{accountId}', 'TEST-ACCOUNT-ID');
+  });
+}
+
+/**
+ * @param {{ description: string }} ann
+ */
+function loadDescription ({ description }) {
+  if (description.endsWith('.html')) {
+    return fetch(`https://proj-uv.github.io/play3-assets/${network}/html/${description}?now=${Date.now()}`)
+      .then(res => res.text())
+      .then(data => {
+        // Extract only the inner text from <article>...</article> if present
+        const match = data.match(/<article[\s\S]*?>([\s\S]*?)<\/article>/i);
+        return (match ? match[1] : data).trim();
+      }).catch(err => {
+        console.error(err);
+        return description;
+      });
+  } else {
+    return description;
+  }
 }
 
 /**

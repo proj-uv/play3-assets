@@ -127,7 +127,6 @@ li {
 
 #article {
   width: 465px;
-  position: sticky;
 
   #article-header {
     box-sizing: border-box;
@@ -158,4 +157,44 @@ li {
   paint-order: stroke fill;
   -webkit-text-stroke: 0.2em black;
   text-shadow: 0.1em 0.1em 0px black;
+}
+
+article main {
+  font-size: 16px;
+  line-height: 19px;
+  font-weight: 500;
+  color: #505050;
+  white-space: pre-line;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+
+  h1 {
+    font-size: 1.5em;
+  }
+
+  h2 {
+    font-size: 1.25em;
+  }
+
+  h3 {
+    font-size: 1.125em;
+  }
+
+  h4, h5, h6 {
+    font-size: 1em;
+  }
+
+  img {
+    width: 100%;
+    height: auto;
+  }
+
+  ul, ol {
+    list-style-type: none;
+    list-style-position: inside;
+    margin-left: 0;
+    padding-left: 1rem;
+    white-space: normal;
+  }
+
 }
