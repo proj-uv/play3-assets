@@ -103,14 +103,17 @@ function clearArticleMenu () {
 function loadArticle (id) {
   selectMenu(id);
 
-  const data = annList.find(ann => ann.id == id);
+  const ann = annList.find(ann => ann.id == id);
 
   const article = document.querySelector('#article');
-  article.querySelector('#article-header-title').textContent = data.announcement;
-  article.querySelector('#article-header-title').title = data.announcement;
+  article.querySelector('#article-header-title').textContent = ann.announcement;
+  article.querySelector('#article-header-title').title = ann.announcement;
 
-  article.querySelector('#article-main-content').textContent = `loading... (${data.description})`;
-  loadDescription(data).then(description => {
+  if (ann.description.endsWith('.html')) {
+    article.querySelector('#article-main-content').textContent = `loading... (${ann.description})`;
+  }
+
+  loadDescription(ann).then((description) => {
     article.querySelector('#article-main-content').innerHTML = description.replaceAll('{accountId}', 'TEST-ACCOUNT-ID');
   });
 }
@@ -118,7 +121,7 @@ function loadArticle (id) {
 /**
  * @param {{ description: string }} ann
  */
-function loadDescription ({ description }) {
+async function loadDescription ({ description }) {
   if (description.endsWith('.html')) {
     return fetch(`https://proj-uv.github.io/play3-assets/${network}/html/${description}?now=${Date.now()}`)
       .then(res => res.text())
