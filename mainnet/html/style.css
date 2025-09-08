@@ -1,0 +1,61 @@
+* {
+  font-family: Fredoka, "Noto Color Emoji", sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+code {
+  font-family: Roboto, serif;
+}
+
+body {
+  background-color: #eeeeee;
+}
+
+article {
+  box-sizing: content-box;
+  width: 415px;
+  margin: 20px;
+  padding: 20px;
+  border: 2px solid #000;
+  border-radius: 10px;
+  background-color: #ffffff;
+
+  font-size: 16px;
+  line-height: 19px;
+  font-weight: 500;
+  color: #505050;
+  white-space: pre-line;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+
+  h1 {
+    font-size: 1.5em;
+  }
+
+  h2 {
+    font-size: 1.25em;
+  }
+
+  h3 {
+    font-size: 1.125em;
+  }
+
+  h4, h5, h6 {
+    font-size: 1em;
+  }
+
+  img {
+    width: 100%;
+    height: auto;
+  }
+
+  ul, ol {
+    list-style-type: none;
+    list-style-position: inside;
+    margin-left: 0;
+    padding-left: 1rem;
+    white-space: normal;
+  }
+
+}
