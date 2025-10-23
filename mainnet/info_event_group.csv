@@ -1,1 +1,14 @@
-id,eventBanner,bannerImage,action,actionObj,announcement,description,startTime,endTime,Column1,_1
+id,eventBanner,bannerImage,action,actionObj,startTime,endTime
+1,PLAY3 Airdrop,/banner/Airdrops_banner.png,OPENUI,MISSION,2025-07-10,2025-07-23
+2,Supervillain Wanted Onboarding,/banner/Inbox_banner.png,OPENUI,INBOX,2025-07-10,2025-07-23
+3,PLAY3 Airdrop,/banner/Airdrops_banner_0724.png,OPENUI,MISSION,2025-07-24,2026-12-31
+4,Play3 Airdrop,/banner/Airdrops_0724.png,OPENLINK,https://twitter.com/intent/post?text=CEO%20Yuna%20from%20%40Wanted_global%20%E2%80%94%20spotted%20in%20PLAY3%20%F0%9F%93%B8%0A%0AMy%20PLAY3%20nickname%3A%20_______%0A%0APlay%20Web3%20%E2%80%94%20where%20the%20fun%20begins%20%F0%9F%91%BE&url=https%3A%2F%2Fx.com%2FXPLA_Official%2Fstatus%2F1947552212479315983,2025-07-24,2025-08-12
+5,Play3 x XPLA,/banner/play3_xpla_banner_0813.png,OPENLINK,https://twitter.com/intent/post?text=Hit%20Lv.2%20in%20%40wanted_global%20%F0%9F%94%A5%0ARacking%20up%20rewards%20on%20PLAY3%20%F0%9F%92%B0%0A%0APLAY3%20Nickname%3A%20___________%0A%0AThis%20collab%20is%20insane%20%E2%80%94%20let%E2%80%99s%20keep%20grinding%20%F0%9F%8E%AE&url=https%3A%2F%2Fx.com%2FXPLA_Official%2Fstatus%2F1955147538631377340,2025-08-13,2025-09-09
+6,Play3 Fishing,/banner/play3_fishing_banner_0813.png,OPENLINK,https://docs.google.com/forms/d/e/1FAIpQLSdmExzFA6AjzrK-r1FywJL1B0ya0lMyPNsgp2_Nvcda5eth5w/viewform,2025-08-14,2025-08-20
+7,Wish Mailbox Event,/banner/wishmailbox_banner.png,OPENLINK,https://forms.gle/GDZ8SFQMxCejyrUp6,2025-08-21,2025-08-27
+8,Meta Match Pre Registration,/banner/banner_MetaMatchPreEvent.png,OPENLINK,https://mm-pre.batching.ai/?play3AccountId={accountId},2025-08-28,2025-09-12
+9,Bonus Airdrop Event Live,/banner/bonusAirdrop_banner.png,OPENLINK,https://docs.google.com/spreadsheets/d/1XDwCAR9NkJcjOgv0bkkd0mwTPLestbrlrC5RfPPMED4/edit?usp=sharing,2025-09-15,2025-10-01T03:00:00Z
+10,PLAY3 Hide-and-Seek,/banner/PLAY3_Hide_and_Seek.png,OPENLINK,https://t.me/play3_official/105,2025-09-24T00:00:00Z,2025-10-01T21:00:00Z
+11,Costume Box Challenge,/banner/costumebox_banner_0930.png,OPENUI,MISSION,2025-10-01T03:00:00Z,2025-10-16T00:00:00Z
+12,SVL New Collab,/banner/svlnewcollab_banner_0930.png,OPENPARTNERMISSION,SVWANTED,2025-10-01T21:00:00Z,2025-10-30T00:00:00Z
+13,PLAY3 Halloween,/banner/20251023_notice_1.png,OPENUI,NOTICE,2025-10-23T07:00:00Z,2025-11-20T00:00:00Z
