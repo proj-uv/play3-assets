@@ -11,5 +11,5 @@ id,eventBanner,bannerImage,action,actionObj,startTime,endTime
 10,PLAY3 Hide-and-Seek,/banner/PLAY3_Hide_and_Seek.png,OPENLINK,https://t.me/play3_official/105,2025-09-24T00:00:00Z,2025-10-01T21:00:00Z
 11,Costume Box Challenge,/banner/costumebox_banner_0930.png,OPENUI,MISSION,2025-10-01T03:00:00Z,2025-10-16T00:00:00Z
 12,SVL New Collab,/banner/svlnewcollab_banner_0930.png,OPENPARTNERMISSION,SVWANTED,2025-10-01T21:00:00Z,2025-10-30T00:00:00Z
-14,PLAY3 New Missions,/banner/20251030_notice.png,OPENUI,MISSION,2025-10-30T00:00:00Z,2026-10-30T00:00:00Z
+14,PLAY3 New Missions,/banner/20251030_notice.png,OPENUI,MISSION,2025-10-30T00:00:00Z,2026-12-30T00:00:00Z
 13,PLAY3 Halloween,/banner/20251023_notice_1.png,OPENUI,NOTICE,2025-10-23T00:00:00Z,2025-11-20T00:00:00Z
